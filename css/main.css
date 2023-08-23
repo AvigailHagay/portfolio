@@ -1826,8 +1826,8 @@ header .top-bar {
 .challenge {
 	border: 3px solid #FF0077;
 	padding: 1.5rem;
-	margin-right: 10rem;
-	margin-left: 10rem;
+	margin-right: 5rem;
+	margin-left: 5rem;
 	margin-bottom: 4rem;
 	border-radius: 5px;
 }
@@ -1863,8 +1863,8 @@ header .top-bar {
 .pico-challenge {
 	border: 3px solid #000000;
 	padding: 1.5rem;
-	margin-right: 10rem;
-	margin-left: 10rem;
+	margin-right: 5rem;
+	margin-left: 5rem;
 	margin-bottom: 4rem;
 	border-radius: 5px;
 }
